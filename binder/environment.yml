@@ -3,3 +3,4 @@ channels:
 dependencies:
 - kim-api
 - openkimmodels
+- kimpy
