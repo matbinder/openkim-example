@@ -4,3 +4,7 @@ dependencies:
 - kim-api=2.1.3=h4333106_4
 - openkimmodels=2019.07.25=hc99cbb1_4
 - kimpy=0.3.3=py37hc9558a2_1
+- pyiron
+- lammps
+- nglview
+- seaborn
